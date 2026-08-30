@@ -1,0 +1,9 @@
+Asset_ID,Asset_Name,Asset_Type,Business_Function,Confidentiality,Integrity,Availability,Asset_Value
+A001,Customer Database,Data,Stores customer records,5,5,5,5
+A002,Employee Laptops,Hardware,Employee daily operations,4,4,4,4
+A003,Company Website,Application,Customer information and services,3,4,5,4
+A004,Email System,Application,Business communication,4,4,5,5
+A005,WiFi Router,Network,Provides network connectivity,3,4,5,4
+A006,Cloud Backup,Service,Stores backup business data,5,5,5,5
+A007,Payment System,Application,Processes customer payments,5,5,5,5
+A008,Office Printer,Hardware,Prints business documents,2,3,2,2
