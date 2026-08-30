@@ -1,0 +1,9 @@
+Risk_ID,Asset,Threat,Vulnerability,Likelihood,Impact,Risk_Score,Risk_Level,Treatment
+R001,Customer Database,Data Breach,Weak access controls,4,5,20,Critical,Mitigate
+R002,Employee Laptops,Malware,Unpatched software,4,4,16,High,Mitigate
+R003,Company Website,Web Attack,Outdated web components,3,4,12,High,Mitigate
+R004,Email System,Phishing,Limited employee awareness,4,4,16,High,Mitigate
+R005,WiFi Router,Unauthorized Access,Weak configuration,3,4,12,High,Mitigate
+R006,Cloud Backup,Account Compromise,Weak authentication,2,5,10,Medium,Mitigate
+R007,Payment System,Data Theft,Stolen credentials,3,5,15,High,Mitigate
+R008,Office Printer,Information Exposure,Documents left unattended,2,2,4,Low,Accept
